@@ -1,3 +1,18 @@
+# NOTES
+Store Name: andtemplatetest
+
+// Connecting to the store
+```shopify theme dev --store andtemplatetest.myshopify.com```
+
+
+http://127.0.0.1:9292
+https://andtemplatetest.myshopify.com/admin/themes/142037287150/editor
+https://andtemplatetest.myshopify.com/?preview_theme_id=142037287150
+
+https://tailwindcss.com/docs/installation
+
+```npx tailwindcss -i ./src/tailwind.css -o ./assets/application.css --watch```
+
 # :wave: Say hi to Elizabeth :wave:
 
 [![Generic badge](https://img.shields.io/badge/course%20available%3F-yes-green.svg)](https://shields.io/)
@@ -38,3 +53,5 @@ If you don't have Shopify CLI installed to your computer, navigate to the [insta
 ## Not a student
 
 If you're not a student, you can still use this repository to start a new Shopify theme project. However, any issues that you will encounter throughout your development will not be supported as the instructor will only answer questions through the course's QnA page.
+
+
